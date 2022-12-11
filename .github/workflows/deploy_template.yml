@@ -1,5 +1,5 @@
 
-name: Deploy frontend
+name: Deploy frontend - template
 
 on:
   workflow_dispatch:
